@@ -1,0 +1,16 @@
+#Ambientes Virtuais (Python)
+.venv/
+venv/
+env/
+__pychache__/
+
+#Dependências de Projetos (Node.js)
+node_modules/
+
+#Segurança e Credenciais (Variáveis de Ambiente)
+.env
+.env.local
+
+#Ficheiros de Sistema Operativo
+.DS_Store
+Thumbs.db
